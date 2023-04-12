@@ -1,4 +1,5 @@
 This file contains the Status related info.
+adding line here to test merte same ine conflict from master
 adding second line after git commit
 updated this line in Development branch for merge 
 addint anothe4r line or merge test
